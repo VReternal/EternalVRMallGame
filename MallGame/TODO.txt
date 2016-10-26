@@ -1,0 +1,50 @@
+------------------------Consumption Tower------------------------
+
+------------------------IDEAS------------------------
+
+
+-You have to Steal stuff in order to get money/Points 
+
+-If you get caught, you have to escape GTA style(Star system, the more you get seen, more police will hunt you)
+
+-Complete a level-> take the stairs
+
+-Can you steal from ppl ?
+
+-Time based system
+
+-After each level you get a chest^^
+
+-How do you get rid of the stuff you stole ? how do you make money out of it ?
+
+-Levels get more diffucult, less time, more police, etc...
+
+-STATS? Stamina, 
+
+-Abilitys? Vanish, 
+
+-Disturp  police by throwing stuff ?
+
+-
+
+
+------------------------TODO------------------------
+
+NavMesh
+-Collider für alle Objekte damit navmesh generierung funktioniert
+
+
+
+
+AI:
+-RAIN AI ?
+
+-People have to run around the Shopping center and buy stuff
+
+-Police has to hunt the player
+
+
+------------------------BUGS------------------------
+
+
+
