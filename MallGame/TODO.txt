@@ -25,21 +25,20 @@
 
 -Disturp  police by throwing stuff ?
 
--
+-you control the character + can help with the head by using special abilitys, throw spiders ?
 
 
 ------------------------TODO------------------------
 
-NavMesh
--Collider für alle Objekte damit navmesh generierung funktioniert
+
+
+------------------------BUGS------------------------
 
 
 
+------------------------AI------------------------
 
-AI:
--RAIN AI ?
 
--People have to run around the Shopping center and buy stuff
 
 -Police has to hunt the player
 
